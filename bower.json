@@ -6,9 +6,9 @@
   "authors": [
     "Thomas Mayrhofer <thomas@mayrhofer.at>"
   ],
-  "moduleType": [
-    "globals"
-  ],
+  "dependencies": {
+    "jquery": "*"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
