@@ -1,0 +1,20 @@
+{
+  "name": "jquery.iframe-transport",
+  "main": "jquery.iframe-transport.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/webPapaya/jquery.iframe-transport",
+  "authors": [
+    "Thomas Mayrhofer <thomas@mayrhofer.at>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
